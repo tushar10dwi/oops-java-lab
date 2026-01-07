@@ -6,7 +6,8 @@ public class Q3 {
     public static void main(String[] args) {
         Scanner read = new Scanner(System.in);
 
-        System.out.println("Enter date number: ");
+        System.out.println("Enter date number: " +
+                "");
         int dt = read.nextInt();
 
         switch (dt%7) {
