@@ -6,7 +6,7 @@ interface Salary {
     void bonus();
 }
 
-abstract class Manager implements Salary{
+    abstract class Manager implements Salary{
     public int basic;
 
     Manager(int basic) {
