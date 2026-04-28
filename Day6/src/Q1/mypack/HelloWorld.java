@@ -1,4 +1,4 @@
-package mypack;
+package Q1.mypack;
 
 public class HelloWorld {
     public static void main(String[] args) {
